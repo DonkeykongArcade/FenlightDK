@@ -1,3 +1,6 @@
+[COLOR red][B]Version 2.1.25[/B][/COLOR]
+- [NEW] Updater: Github Branch setting added (Settings > General > Manage Updates). Defaults to 'main'. Change to any branch name to pull updates from a dev/testing branch without merging to main.
+
 [COLOR red][B]Version 2.1.24[/B][/COLOR]
 - [NEW] MDBList integration: browse curated movie/TV lists via your free MDBList API key (Settings > Accounts > MDBList).
 - [NEW] Simkl integration: browse trending/popular content and your Simkl watchlist. Register a free app at simkl.com/apps to get your Client ID, then authorize via Settings > Accounts > Simkl.
