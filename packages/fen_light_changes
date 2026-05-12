@@ -1,3 +1,11 @@
+[COLOR red][B]Version 2.1.24[/B][/COLOR]
+- [NEW] MDBList integration: browse curated movie/TV lists via your free MDBList API key (Settings > Accounts > MDBList).
+- [NEW] Simkl integration: browse trending/popular content and your Simkl watchlist. Register a free app at simkl.com/apps to get your Client ID, then authorize via Settings > Accounts > Simkl.
+- [NEW] Unified cloud browser: when two or more debrid services are authorized, an "All Clouds" entry appears in Premium section aggregating all folders in one view.
+- [NEW] First-run setup wizard: on first launch, users with no TMDb API key configured are shown a step-by-step setup dialog.
+- [NEW] Settings UI entries for MDBList API key and Simkl Client ID / Authorize / Revoke.
+- [FIX] Improved TMDb API error messages: 401 Unauthorized now shows instructions to set an API key; 429 rate-limit errors are logged clearly.
+
 [COLOR red][B]Version 2.1.23[/B][/COLOR]
 - [FIX] Removed hardcoded revoked TMDb API key. Users must now supply their own free TMDb API key in Settings > Accounts.
 - [FIX] TMDb v4 Read Access Token is now a user-configurable setting (Settings > Accounts) instead of a hardcoded revoked token. Required for TMDb Lists auth.
