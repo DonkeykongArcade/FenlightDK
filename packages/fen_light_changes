@@ -1,3 +1,9 @@
+[COLOR red][B]Version 2.1.23[/B][/COLOR]
+- [FIX] Removed hardcoded revoked TMDb API key. Users must now supply their own free TMDb API key in Settings > Accounts.
+- [FIX] TMDb v4 Read Access Token is now a user-configurable setting (Settings > Accounts) instead of a hardcoded revoked token. Required for TMDb Lists auth.
+- [FIX] TMDb Lists auth and revoke flows now validate token availability and show clear setup instructions if not configured.
+- [FIX] Trakt sync no longer incorrectly skips activity checks for users without an account linked (trakt_user_active function call fix).
+
 [COLOR red][B]Version 2.1.22[/B][/COLOR]
 - [REQUEST] Added custom poster/fanart for Personal Lists. This means for the list itself. Found within the "Edit Properties" context menu item.
 - [CODE] A fair few fixes for small bugs throughout addon.
