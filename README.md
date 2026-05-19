@@ -1,6 +1,6 @@
 https://FenlightAnonyMouse.github.io/packages
 
-# FenLightAM
+# FenLight
 
 A Kodi video addon providing access to content via Easynews and Debrid cloud services (Real-Debrid, Premiumize, AllDebrid, TorBox, etc.) with metadata from TMDb, Trakt, OMDb, and IMDb.
 
@@ -18,7 +18,7 @@ The addon requires you to supply your own API credentials. None are bundled.
 
 1. Create a free account at [themoviedb.org](https://www.themoviedb.org/)
 2. Go to **Settings > API** and request an API key (free for personal use)
-3. In FenLightAM go to **Settings > Accounts > TMDb API Key** and paste your v3 API key
+3. In FenLight go to **Settings > Accounts > TMDb API Key** and paste your v3 API key
 
 ### TMDb Lists (optional - only needed for TMDb list features)
 
