@@ -1,4 +1,4 @@
-https://FenlightAnonyMouse.github.io/packages
+https://donkeykongarcade.github.io/FenlightDK/packages/
 
 # FenLight
 
@@ -8,7 +8,7 @@ This is a community-maintained fork continuing development after the original au
 
 ## Install
 
-Add `https://fenlightanonymouse.github.io/packages` as a Kodi zip source, then install from zip.
+Add `https://donkeykongarcade.github.io/FenlightDK/packages/` as a Kodi zip source, then install from zip.
 
 ## Required Setup After Install
 
