@@ -18,7 +18,8 @@ The addon requires you to supply your own API credentials. None are bundled.
 
 1. Create a free account at [themoviedb.org](https://www.themoviedb.org/)
 2. Go to **Settings > API** and request an API key (free for personal use)
-3. In FenLight go to **Settings > Accounts > TMDb API Key** and paste your v3 API key
+     the URL for your app must be: http://localhost 
+4. In FenLight go to **Settings > Accounts > TMDb API Key** and paste your v3 API key
 
 ### TMDb Lists (optional - only needed for TMDb list features)
 
@@ -30,7 +31,8 @@ The default Trakt app credentials bundled with the addon may no longer be active
 
 1. Register a free app at [trakt.tv/oauth/applications](https://trakt.tv/oauth/applications)
 2. Set redirect URI to `urn:ietf:wg:oauth:2.0:oob`
-3. Paste your Client ID and Secret into **Settings > Accounts > Trakt Client / Trakt Secret**
+3. Tick both boxes (Checkin and scrobble)
+4. Paste your Client ID and Secret into **Settings > Accounts > Trakt Client / Trakt Secret**
 
 ### Debrid Services (optional)
 
